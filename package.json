@@ -1,0 +1,36 @@
+{
+  "name": "eccomere",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@badrap/bar-of-progress": "^0.1.2",
+    "@sanity/client": "^3.3.0",
+    "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.29.0",
+    "lord-icon-element": "^3.4.0",
+    "lottie-web": "^5.9.4",
+    "next": "12.1.5",
+    "next-auth": "^4.3.4",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1",
+    "react-useanimations": "^2.0.8",
+    "strapi": "^3.6.9",
+    "stripe": "^9.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.16.7",
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
+  }
+}
